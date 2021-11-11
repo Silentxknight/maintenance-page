@@ -1,2 +1,1 @@
-# maintenance-page
-Demo maintenance page build with html css
+# Demo Maintenance page code
